@@ -43,8 +43,7 @@
 ## 📬 Connect with Me
 
 - 📧 Email: [mohankumar.cyber25@gmail.com](mailto:mohankumar.cyber25@gmail.com)  
-- 🌐 LinkedIn: [Available in Resume](#) (Update this later with direct link)  
-- 📸 Instagram (Cyber Journey coming soon!)
+- 🌐 LinkedIn: [www.linkedin.com/in/mohankumar-e-m]  
 
 ---
 

@@ -1,43 +1,31 @@
-# 🤖 AI & Data Science Projects
+# AI & Data Science Projects
 
-This folder contains my work in Artificial Intelligence, Machine Learning, and Multi-Agent Systems. As a student in the AI & DS Innovation Lab vertical, I am exploring how to build intelligent agents and integrate AI with cybersecurity.
+This directory contains my projects related to Artificial Intelligence, Data Science, and Machine Learning.
 
-## 🛠️ Key Projects
+## Projects
 
-### 1. AI Negotiator Agent (Hackathon)
-**Event**: KGiSL Hackathon (AI/ML Track)
-- **Description**: A negotiation bot designed to simulate complex bargaining scenarios.
-- **Tech Stack**: Python, Llama-3-8B API.
-- **My Contribution**:
-    - Designed the agent's personality and negotiation strategy.
-    - Implemented decision-making logic for 3-minute negotiation rounds.
-    - Integrated the Llama-3 LLM for natural language understanding and generation.
+### 1. TNQ PDF Visuals Pipeline
+**File:** `TNQ_PDF_Visuals_Pipeline.ipynb`
 
-### 2. AURA – Personal Task Assistant
-**Type**: Self-Initiated Project (Multi-Agent System)
-- **Description**: An intelligent personal assistant that uses multiple sub-agents to manage daily tasks, habits, and planning.
-- **Features**:
-    - **Multi-Agent Architecture**: Specialized agents for planning, tracking, and summarizing.
-    - **Smart Logic**: Daily planner logic based on intelligent rules.
-    - **Natural Language**: Human-like response patterns.
+A comprehensive pipeline designed to extract, analyze, and verify visual content (figures and tables) from PDF documents.
 
-### 3. Astronaut Emotion Analyzer (SIH Prototype)
-**Event**: Smart India Hackathon (SIH)
-- **Description**: A prototype system designed to analyze the emotional state of astronauts in space to ensure mental well-being.
-- **Role**: Developed the prototype for emotion detection and analysis.
+**Key Features:**
+- **Figure Extraction**: Extracts images and captions from PDFs.
+- **Table Detection**: Identifies and parses tables into CSV format.
+- **OCR & Text Extraction**: Extracts text from non-table figures.
+- **Metadata Enrichment**: Categorizes figures and generates keywords.
+- **Complexity Estimation**: Uses Machine Learning to estimate the complexity of figures.
+- **AI Content Verification**: Detects potentially AI-generated content in captions and text.
 
-### 4. TNQ Tech Task (Internship)
-**Type**: Technical Assessment
-- **Description**: A completed technical task for an internship opportunity at TNQ.
-- **Status**: Completed and ready for review.
+### 2. Negotiator AI Agent (Coming Soon)
+An AI agent built using Llama-3-8B capable of negotiating in complex scenarios.
+- *Status*: Code to be added.
 
----
+### 3. SIH Space Astronaut Emotion Analyzer (Coming Soon)
+A prototype developed for the Smart India Hackathon to analyze astronaut emotions.
+- *Status*: Code to be added.
 
-## 🚀 Skills Applied
-- **LLM Integration**: Working with large language models like Llama-3.
-- **Agentic AI**: Designing systems where AI takes autonomous actions.
-- **Cloud Deployment**: Utilizing AWS (EC2) for deploying AI models.
-- **Python & Logic**: Strong foundation in Python programming and logical problem solving.
-
----
-*Code for these projects will be uploaded soon.*
+## Setup & Usage
+1. Navigate to the project folder.
+2. Open the `.ipynb` files using Jupyter Notebook or Google Colab.
+3. Ensure required dependencies are installed (listed in the notebooks).
